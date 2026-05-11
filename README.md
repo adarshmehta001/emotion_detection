@@ -55,8 +55,7 @@ emotion-detection/
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/emotion-detection-project.git
-cd emotion-detection-project
+https://github.com/adarshmehta001/emotion_detection.git
 ```
 
 2. Install dependencies:
